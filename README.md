@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f26/jpa02-Sir-Edward-123
 
-Deployed at: https://jpa02-sir-edward.dokku-07.cs.ucsb.edu
+Deployed at: https://jpa02-sir-edward-123.dokku-07.cs.ucsb.edu
 
 
 # About this repo
